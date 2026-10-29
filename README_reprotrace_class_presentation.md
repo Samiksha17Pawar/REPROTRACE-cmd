@@ -194,9 +194,8 @@ the general idea is new.
 -   **`script`** records terminal sessions. Its exact capabilities
     depend on the operating system and version.
 -   **`hyperfine`** measures command performance through benchmarking.
--   **RepoTrace on PyPI** describes a closely related workflow involving
-    command capture, saved reports, replay, and comparison:
-    https://pypi.org/project/repotrace/
+-   **PyPI** describes a closely related workflow involving
+    command capture, saved reports, replay, and comparison
 
 **Research issue:** RepoTrace is a close overlap with our current
 proposal. We need to investigate its actual features and limitations,
@@ -244,7 +243,6 @@ and document real outputs. 5. Test installation on Linux.
 -   GNU Diffutils manual: https://www.gnu.org/software/diffutils/manual/
 -   `script` manual: https://man7.org/linux/man-pages/man1/script.1.html
 -   Hyperfine: https://github.com/sharkdp/hyperfine
--   RepoTrace on PyPI: https://pypi.org/project/repotrace/
 
 ------------------------------------------------------------------------
 
